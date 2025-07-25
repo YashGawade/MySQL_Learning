@@ -13,3 +13,7 @@ BEGIN
 END //
 
 DELIMITER ;
+
+CALL RegisterUser(
+  'yash','0925','yg@1234','rajgurunagar'
+ );
