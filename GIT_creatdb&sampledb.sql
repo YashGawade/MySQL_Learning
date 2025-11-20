@@ -8,6 +8,7 @@ USE tflecommerce;
 
 
 
+
 -- Create users table
 CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
